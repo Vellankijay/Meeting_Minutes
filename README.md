@@ -41,7 +41,7 @@ assistant = MeetingAssistant()
 audio_file = "meeting_audio.mp3"
 for partial_output in assistant.process_meeting(audio_file, progress=print):
     print(partial_output, end="")
-
+```
 
 # Technologies Used
 OpenAI Whisper API
