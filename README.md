@@ -43,13 +43,13 @@ for partial_output in assistant.process_meeting(audio_file, progress=print):
     print(partial_output, end="")
 ```
 
-# Technologies Used
+## Technologies Used
 OpenAI Whisper API
 Hugging Face Transformers
 LLaMA models with 4-bit quantization for efficient inference
 Gradio for frontend UI
 
-#📊 Applications
+##📊 Applications
 Automated meeting documentation.
 AI-powered corporate reporting.
 Productivity tools for teams.
