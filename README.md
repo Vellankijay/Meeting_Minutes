@@ -49,8 +49,10 @@ Hugging Face Transformers
 LLaMA models with 4-bit quantization for efficient inference  
 Gradio for frontend UI  
 
-##📊 Applications  
+## 📊 Applications  
 Automated meeting documentation.  
 AI-powered corporate reporting.  
 Productivity tools for teams.  
 AI-driven note-taking assistants.  
+
+<img width="1204" height="502" alt="Screenshot 2025-08-02 at 7 13 17 PM" src="https://github.com/user-attachments/assets/dc11ccae-6b22-4a97-a098-d412422871d4" />
